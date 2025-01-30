@@ -7,9 +7,9 @@ import Login from './Login'
 import SignUp from './SignUp'
 import Home from './Home'
 import About from './About'
-import Forget from './forget'
-import Change from './change'
-import Doubt from './doubt'
+import Forget from './Forget'
+import Change from './Change'
+import Doubt from './Doubt'
 
 function App() {
 
